@@ -5,7 +5,7 @@ database demo that explores developers, skills, and projects as connected data,
 backed by [CognoDB Cloud](https://console.cognodb.com).
 
 **Frontend repo:** https://github.com/keshri29/wexa-ai-CognoDB-Assignment-2-Application
-**Live demo:** _add your deployed URL here once deployed (see [Deployment](#deployment))._
+**Live demo:** https://wexa-ai-cogno-db-assignment-2-appli-ruddy.vercel.app/ (backend API: https://skillgraph-api-0bry.onrender.com)
 
 ---
 
